@@ -3,7 +3,7 @@
 <div align="center">
 <br/>
 <h3>Joyful Joy 🥳</h3>
-<p>Hello, I'm Da-Bin Jeong, a Frontend Developer.<p/>
+<p>Hello, I'm Da-Bin Jeong, a Front-End Developer.<p/>
 <p>
   <a href="https://b41.kr/
 " target="_blank"><img src="https://img.shields.io/badge/Blog-DD0B78?style=flat-square&logo=GitHub%20Sponsors&logoColor=white"/></a>
