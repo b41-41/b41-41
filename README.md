@@ -7,7 +7,7 @@
 <p>
   <a href="https://b41.kr/
 " target="_blank"><img src="https://img.shields.io/badge/Blog-DD0B78?style=flat-square&logo=GitHub%20Sponsors&logoColor=white"/></a>
-   <a href="https://b41-41.github.io/
+   <a href="https://b41.kr/til
 " target="_blank"><img src="https://img.shields.io/badge/TIL-pink?style=flat-square&logo=GitHub%20Sponsors&logoColor=white"/></a>
   <a href="mailto:41@b41.kr" target="_blank"><img src="https://img.shields.io/badge/41@b41.kr-EA4335?style=flat-square&logo=Gmail&logoColor=white"/></a>
 </p>
